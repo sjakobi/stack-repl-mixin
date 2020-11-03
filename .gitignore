@@ -1,0 +1,5 @@
+.stack-work/
+dist-newstyle/
+non-base-prelude/.stack-work/
+relude-as-prelude/.stack-work/
+stack.yaml.lock
